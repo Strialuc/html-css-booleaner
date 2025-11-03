@@ -62,3 +62,22 @@ main>section>div>p{
   font-weight: bolder;
   font-size: 17px;
 }
+
+
+table {
+    border-collapse: collapse;
+  width: 100%;
+}
+
+
+
+.intestazione-tabella{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+.intestazione-riga-azzurra{
+    background-color: lightblue;
+}
+
