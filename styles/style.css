@@ -41,4 +41,24 @@ main>section>div>p{
     background-color: yellow;
 }
 
+.foto-fondo {
+  position: relative;
+  width: 300px;
+  margin-bottom: 20px;
+}
 
+.foto-fondo img {
+  width: 70%;
+  display: block;
+}
+
+.background-testo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  color: white;
+  font-weight: bolder;
+  font-size: 17px;
+}
